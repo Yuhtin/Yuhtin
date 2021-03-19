@@ -41,5 +41,5 @@ My name is Davi Duarte, I'm 14 years old and most of the time I spend developing
   
 <br/>
 
-[![Yuhtin stats](https://github-readme-stats.vercel.app/api?username=Yuhtin&layout=compact&theme=tokyonight&show_icons=true&count_private=true)](https://github.com/Yuhtin/)
-[![Yuhtin stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuhtin&hide=html&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/Yuhtin/)
+[![Yuhtin stats](https://github-readme-stats.vercel.app/api?username=Yuhtin&layout=compact&theme=tokyonight&hide_title=true&show_icons=true&count_private=true)](https://github.com/Yuhtin/) 
+[![Yuhtin stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuhtin&hide=html&layout=compact&hide_title=true&langs_count=10&theme=tokyonight)](https://github.com/Yuhtin/)
