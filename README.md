@@ -33,7 +33,7 @@ My name is Davi Duarte, I'm 14 years old and most of the time I spend developing
 <details>
   <summary>💬 Contact</summary>
    </br>    <img align="left" alt="Discord" target="_blank" width="25px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg"/>
-  <string>Yuhtin#9147</string> 
+  <string>Yuhtin#9147</string>
   
    </br> <img align="left" alt="Twitter" target="_blank" width="25px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg"/>
   <string>@Yuhtin_</string> </br>
@@ -41,5 +41,5 @@ My name is Davi Duarte, I'm 14 years old and most of the time I spend developing
   
 <br/>
 
-[![Yuhtin stats](https://github-readme-stats.vercel.app/api?username=Yuhtin&theme=tokyonight)](https://github.com/Yuhtin/)
-[![Yuhtin stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuhtin&hide=html&layout=compact&theme=tokyonight)](https://github.com/Yuhtin/)
+[![Yuhtin stats](https://github-readme-stats.vercel.app/api?username=Yuhtin&layout=compact&theme=tokyonight&show_icons=true&count_private=true)](https://github.com/Yuhtin/)
+[![Yuhtin stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuhtin&hide=html&layout=compact&langs_count=10&theme=tokyonight)](https://github.com/Yuhtin/)
