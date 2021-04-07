@@ -43,4 +43,3 @@ My name is Davi Duarte, I'm 14 years old and most of the time I spend developing
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Yuhtin&theme=tokyonight&fire=DD6400&ring=DD6400&currStreakNum=DD985F&stroke=484848)](https://git.io/streak-stats)
 [![Yuhtin stats](https://github-readme-stats.vercel.app/api?username=Yuhtin&layout=compact&theme=tokyonight&hide_title=true&show_icons=true&count_private=true)](https://github.com/Yuhtin/)
-[![Yuhtin stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Yuhtin&hide=html&layout=compact&hide_title=true&langs_count=10&theme=tokyonight)](https://github.com/Yuhtin/)
