@@ -14,7 +14,8 @@
   <img alt="Intellij" width="40px" src="https://raw.githubusercontent.com/yuhtin/yuhtin/master/icons/intellij.png">
   <img alt="VSCode" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
   <img alt="Pycharm" width="40px" src="https://raw.githubusercontent.com/yuhtin/yuhtin/master/icons/pycharm.png"> <br/>
-  <img alt="Monday" width="40px" src="https://raw.githubusercontent.com/yuhtin/yuhtin/master/icons/monday.png"> <br/><br/>
+  <img alt="Monday" width="40px" src="https://raw.githubusercontent.com/yuhtin/yuhtin/master/icons/monday.png">
+  <img alt="Grafana" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/develop/icons/grafana/grafana-original.svg"> <br/><br/>
   <img height"100em" src="https://github-readme-streak-stats.herokuapp.com?user=Yuhtin&theme=gruvbox&hide_border=true&date_format=j%20M%5B%20Y%5D&background=FFFFFF00&dates=54FFDE" alt="streak"><br/>
   <img height"100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuhtin&layout=compact&hide_title=true&theme=github_dark&hide_border=true" alt="stats"> 
   <img src="https://github.com/Yuhtin/Yuhtin/blob/output/github-contribution-grid-snake.svg" alt="commit-snake">
