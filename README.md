@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="200px" src="https://user-images.githubusercontent.com/26367735/127791464-585d94d2-f411-48ef-83aa-5e9d4e57c351.gif" alt="avatar"> <br/><br/><br/>
+  <img src="https://lanyard.cnrad.dev/api/272879983326658570"> <br/><br/>
   <img alt="Java" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img alt="Spring" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">    
   <img alt="Python" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
