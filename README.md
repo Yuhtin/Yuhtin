@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Davi Duarte</h1>
 <h3 align="center">Passionate about Technology and Gaming - Building my future through Programming</h3>
 
-- 🔭 I’m currently working on [RedeForce](https://github.com/redeforce)
+- 🔭 I’m currently working on [RedeDrazyh](https://github.com/RedeDrazyh)
 
 - 🌱 I’m currently learning **django & expressjs**
 
