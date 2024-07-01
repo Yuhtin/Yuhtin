@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Davi Duarte</h1>
 <h3 align="center">Passionate about Technology and Gaming - Building my future through Programming</h3>
 
-- 🔭 I’m currently working on [Jungle](https://www.itsjungle.xyz/)
+- 🔭 I’m currently working at [Jungle](https://www.itsjungle.xyz/)
 
 - 🌱 I’m currently learning **django & expressjs**
 
