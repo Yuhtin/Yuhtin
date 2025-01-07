@@ -14,8 +14,6 @@
   - rio.daviduarte@gmail.com
   - @yuhtin on Discord
 
----
-
 ### 🛠️ Languages & Tools
 <p align="left">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
@@ -28,5 +26,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-plain-wordmark.svg" alt="redis" width="40" height="40" />
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original-wordmark.svg" alt="prisma" width="40" height="40" />
 </p>
+
+<img src="https://raw.githubusercontent.com/yuhtin/yuhtin/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 Feel free to fork any of my repositories or reach out to collaborate! 💡
