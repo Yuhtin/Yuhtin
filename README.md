@@ -7,7 +7,7 @@
 ### 👨‍💻 About Me
 - 🔍 **Started Coding:** At 11, I dove into programming to enhance my Minecraft experience. This led to creating open-source projects at [NextPlugins](https://github.com/nextplugins).  
 - 🚀 **Professional Growth:** Currently expanding my horizons at [Jungle](https://itsjungle.xyz) and embarking on a new journey at college on [Inteli](https://inteli.edu.br).  
-- 🎯 **Life Mission:** Delivering education and opportunities through free technology for underprivileged communities.  
+- 🎯 **Life Mission:** Delivering education and opportunities for free through technology for underprivileged communities.  
 
 ### 🌐 Connect with Me
   - https://linkedin.com/in/daviduarte
