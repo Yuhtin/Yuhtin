@@ -29,4 +29,4 @@
 
 
 > **Feel free to fork any of my repositories or reach out to collaborate! 💡**
-<h3 align="center"><img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&quote=The+only+way+to+do+great+work+is+to+love+what+you+do.&author=Steve+Jobs">
+<h3 align="center"><img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&quote=The+only+way+to+do+great+work+is+to+love+what+you+do.&author=Steve+Jobs"></h3>
