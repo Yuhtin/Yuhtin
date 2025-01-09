@@ -29,4 +29,4 @@
 
 
 > **Feel free to fork any of my repositories or reach out to collaborate! 💡**
-<img src="https://github.com/Yuhtin/Yuhtin/blob/main/nyancat%20gif.gif?raw=true" width="220" align="center">
+<h3 align="center"><img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=dark&quote=The+only+way+to+do+great+work+is+to+love+what+you+do.&author=Steve+Jobs">
