@@ -18,9 +18,8 @@
 ---
 
 <div align="center">
-  <img src="https://github.com/Yuhtin/Yuhtin/blob/main/nyancat%20gif.gif?raw=true" width="280">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuhtin&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&order=1" height="150" alt="stats"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yuhtin&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=4&theme=codeSTACKr&hide_border=false&order=2" height="150" alt="languages"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=yuhtin&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&order=1" height="150" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yuhtin&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=4&theme=codeSTACKr&hide_border=false&order=2" height="150" alt="languages"/>
 </div>
 
 ## 🌐 Connect with Me <img src="https://github.com/Yuhtin/Yuhtin/blob/main/Octocat%20Build.png?raw=true" align="right" width="150" height="150" >
@@ -30,3 +29,4 @@
 
 
 > **Feel free to fork any of my repositories or reach out to collaborate! 💡**
+<img src="https://github.com/Yuhtin/Yuhtin/blob/main/nyancat%20gif.gif?raw=true" width="220" align="center">
