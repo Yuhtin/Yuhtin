@@ -4,18 +4,17 @@
   🌟 Transforming ideas into impactful projects. Exploring technology and gaming while building a brighter future for everyone. 🌟
 </p>
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 - 🔍 **Started Coding:** At 11, I dove into programming to enhance my Minecraft experience. This led to creating open-source projects at [NextPlugins](https://github.com/nextplugins).  
 - 🚀 **Professional Growth:** Currently expanding my horizons at [Jungle](https://itsjungle.xyz) and embarking on a new journey at college on [Inteli](https://inteli.edu.br).  
 - 🎯 **Life Mission:** Delivering education and opportunities for free through technology for underprivileged communities.  
 
----
-<p align="center">
-  <strong> 🛠️ Tech Stack </strong>
-</p>
-<p align="center">
+### 🛠️ Tech Stack
+<p align="left">
     <img src="https://skillicons.dev/icons?i=java,ts,js,py,docker,postgres,mongo,redis,prisma" />
 </p>
+
+---
 
 <div align="center">
   <img src="https://github.com/Yuhtin/Yuhtin/blob/main/nyancat%20gif.gif?raw=true" width="280">
