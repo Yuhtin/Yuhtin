@@ -5,9 +5,10 @@
 </p>
 
 ### 👨‍💻 About Me
-- 🔍 **Started Coding:** At 11, I dove into programming to enhance my Minecraft experience. This led to creating open-source projects at [NextPlugins](https://github.com/nextplugins).  
-- 🚀 **Professional Growth:** Currently expanding my horizons at [Jungle](https://itsjungle.xyz) and embarking on a new journey at college on [Inteli](https://inteli.edu.br).  
-- 🎯 **Life Mission:** Delivering education and opportunities for free through technology for underprivileged communities.  
+- 🔍 **Started Coding:** At 11, I dove into programming mods for Minecraft. This led to creating open-source projects at [NextPlugins](https://github.com/nextplugins). 
+- 🚀 **Professional Growth:** After expanding my skill set at [Jungle](https://itsjungle.xyz), I am now embarking on an exciting academic journey at [Inteli](https://inteli.edu.br).  
+- 🎯 **Life Mission:** I am committed to leveraging technology to provide free education and opportunities for underprivileged communities.  
+- 📚 **Learning With:** My friend and mentor, [Thomaz Klifson](https://github.com/Thomaz-Klifson), an experienced Inteli veteran.  
 
 ### 🛠️ Tech Stack
 <p align="left">
