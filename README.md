@@ -12,7 +12,7 @@
 
 ### 🛠️ Tech Stack
 <p align="left">
-    <img src="https://skillicons.dev/icons?i=java,ts,js,py,docker,postgres,mongo,redis,prisma" />
+    <img src="https://skillicons.dev/icons?i=java,ts,js,py,docker,postgres,mongo,redis,prisma,idea,vscode,linux" />
 </p>
 
 ---
