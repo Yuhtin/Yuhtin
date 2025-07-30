@@ -1,5 +1,5 @@
 <p align="center">
-  <strong>Davi Duarte</strong> • Computer Science @ <a href="https://inteli.edu.br" target="_blank">Inteli</a>  
+  Computer Science @ <a href="https://inteli.edu.br" target="_blank">Inteli</a>  
   <br>
   Backend & DevOps | Cloud (AWS & GCP) | Blockchain & Cybersecurity Enthusiast
 </p>
